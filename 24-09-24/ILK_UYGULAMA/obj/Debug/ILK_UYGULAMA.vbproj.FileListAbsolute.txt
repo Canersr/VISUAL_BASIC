@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.exe.config
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.exe
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.pdb
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.xml
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.Form1.resources
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.Resources.resources
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.exe
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.xml
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.pdb
+C:\Users\User\Desktop\ILK_UYGULAMA\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.Form2.resources
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.exe.config
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.exe
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.pdb
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\bin\Debug\ILK_UYGULAMA.xml
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.vbproj.AssemblyReference.cache
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.Form1.resources
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.Form2.resources
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.Resources.resources
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.vbproj.GenerateResource.cache
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.exe
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.xml
+E:\Visual Basic\2.SINIF\24-09-24\ILK_UYGULAMA\obj\Debug\ILK_UYGULAMA.pdb
