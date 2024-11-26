@@ -1,0 +1,30 @@
+CNR
+03.10.2002 02:47:10
+------------------------------
+FIZIK
+EDEBIYAT
+KIMYA
+------------------------------
+CANER
+03.10.2002 02:48:02
+------------------------------
+EDEBIYAT
+FIZIK
+KIMYA
+------------------------------
+
+03.10.2002 02:51:22 tarihinde kaydedilmiştir.
+------------------------------
+KIMYA
+BIYOLOJI
+MATEMATIK
+------------------------------
+CANERDKFMSDL
+29.10.2024 16:18:21 tarihinde kaydedilmiştir.
+------------------------------
+EDEBIYAT
+MATEMATIK
+KIMYA
+BIYOLOJI
+FIZIK
+------------------------------

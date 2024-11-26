@@ -1,0 +1,24 @@
+c:\users\user\Desktop\24-10-08\24-10-08\bin\Debug\24-10-08.exe.config
+c:\users\user\Desktop\24-10-08\24-10-08\bin\Debug\24-10-08.exe
+c:\users\user\Desktop\24-10-08\24-10-08\bin\Debug\24-10-08.pdb
+c:\users\user\Desktop\24-10-08\24-10-08\bin\Debug\24-10-08.xml
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\_24_10_08.Form1.resources
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\_24_10_08.Resources.resources
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\24-10-08.vbproj.GenerateResource.Cache
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\24-10-08.exe
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\24-10-08.xml
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\24-10-08.pdb
+c:\users\user\Desktop\24-10-08\24-10-08\obj\Debug\_24_10_08.Form2.resources
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\bin\Debug\24-10-08.exe.config
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\bin\Debug\24-10-08.exe
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\bin\Debug\24-10-08.pdb
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\bin\Debug\24-10-08.xml
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\24-10-08.vbproj.AssemblyReference.cache
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\_24_10_08.Form1.resources
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\_24_10_08.Form2.resources
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\_24_10_08.Resources.resources
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\24-10-08.vbproj.GenerateResource.cache
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\24-10-08.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\24-10-08.exe
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\24-10-08.xml
+E:\Visual Basic\2.SINIF\24-10-08\24-10-08\obj\Debug\24-10-08.pdb
