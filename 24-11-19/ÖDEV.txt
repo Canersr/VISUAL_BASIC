@@ -1,0 +1,4 @@
+	metin belgesinden illeri listboxta gösterilecek(form çalýþtýðýnda)
+listboxda hiçbirþey seçilmediyse sað týk çalýþmýcak
+seçim yapýldýðýnda sað týk çalýþacak ve sadece sil olcak
+basýldýðýnda silinecek 
